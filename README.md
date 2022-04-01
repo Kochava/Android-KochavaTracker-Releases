@@ -8,7 +8,7 @@ The Kochava Android SDK is a lightweight plugin which can be easily integrated i
 
 ### V3 (Legacy)
 
-[![Download](https://img.shields.io/badge/release-3.10.1-blue)](https://github.com/Kochava/Android-KochavaTracker-Releases/releases/tag/v3.10.1)
+[![Download](https://img.shields.io/badge/release-3.11.0-blue)](https://github.com/Kochava/Android-KochavaTracker-Releases/releases/tag/v3.11.0)
 [![Download](https://img.shields.io/maven-central/v/com.kochava.base/tracker)](https://search.maven.org/artifact/com.kochava.base/tracker)
 
 ### Installation
